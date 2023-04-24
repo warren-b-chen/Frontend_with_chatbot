@@ -1,2 +1,2 @@
 # Frontend_with_chatbot
-Basic front-end website with a basic NLP chatbot
+A vanilla HTML+CSS+JS frontend with a basic NLP chatbot built in Python with PyTorch. REST API is created via Flask.
